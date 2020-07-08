@@ -1,0 +1,25 @@
+SD Card -> Uno:
+---------------
+VCC -> 3.3V
+GND -> GND
+SCK -> 13
+DO (MISO) -> 12
+DI (MOSI) -> 11
+CS -> 4
+
+--------------------------------
+
+Speaker -> Uno:
+---------------
+Red -> 9
+Black -> GND
+
+--------------------------------
+
+Pads -> Uno:
+------------
+StartPad -> A0
+Pad1 -> A1
+Pad2 -> A2
+Pad3 -> A3
+Pad4 -> A4
