@@ -1,7 +1,0 @@
-- [SOLVED] System goes straight into loop function after "start" is hit (False "end" hit)
-
-- [SOLVED] Loop Tempo seems to speed up over time (possible timing issue)
-
-- [Not reproducible] (possibly solved above) System dies after certain number of taps (possible overflow or unassigned value issue)
-
-- [SOLVED] System can't handle two simultaneous hits (design issue)
